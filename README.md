@@ -29,7 +29,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :telescope: I’m Student of Informatics Engineering in University 17 Agustus 1945 Surabaya.
 - :seedling: Technologies Enthusiast Mainly on Python and Website.
 - :zap: Building Some Project.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arief-rahman-hakim-940176193/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arief-rahman-hakim-940176193/)
 
 ---
 
