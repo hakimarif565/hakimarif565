@@ -9,6 +9,9 @@
   <a href="https://twitter.com/NCreast">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a href="https://hakimarif565.github.io/arief.github-io/">
+    <img src="https://img.shields.io/badge/My Portfolio-blue?style=for-the-badge&logo=web&logoColor=white" alt="Website Badge"/>
+  </a>
 </div>
 <div id="badges2" align="center">
   <img src="https://komarev.com/ghpvc/?username=hakimarif565&style=flat-square&color=blue" alt=""/>
